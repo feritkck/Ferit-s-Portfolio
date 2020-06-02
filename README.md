@@ -24,12 +24,8 @@ body {
 </head>
 <body>
 
-<section id="welcome-section">
-<h1>Ferit sin portfolio</h1>
-</section>
-
 <div>
-  <img src="https://i.postimg.cc/C52CvDyn/5b2c33844488b3000927028f-thumb-640.jpg">
+  <img src="https://i.postimg.cc/RhZGp4Ny/5b2c33844488b3000927028f-thumb-640.jpg">
 </div>
 
 <div class="navbar">
@@ -49,15 +45,15 @@ body {
   </div>
   
   <div class="project-tile">
-    <h2>HTML</h2>
-    <p>Bad HTML Developer</p>
+    <h2>Eksamens Oppgave</h2>
+    <p>Dette er et bilde a eksamen oppgaven min som jeg selv gjorde i desember tiden</p>
   </div>
+  <div>
+  <img src="https://i.postimg.cc/NFQKKTVV/IMG-4174.jpg">
+</div>
   
   <div class="project-tile">
     <h2>HTML Link</h2>
     <p>Bad HTML Link Developer</p>
       <a href="https://www.youtube.com/feed/subscriptions" target="_blank">Visit Youtube.com</a> 
   </div>
-
-</body>
-</html>
