@@ -1,5 +1,4 @@
 # Ferit-s-Portfolio
-<!DOCTYPE html>
 <html>
 <head>
 <style>
