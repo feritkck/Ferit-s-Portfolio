@@ -48,8 +48,9 @@ body {
     <h2>Eksamens Oppgave</h2>
     <p>Dette er et bilde a eksamen oppgaven min som jeg selv gjorde i desember tiden</p>
   </div>
+  
   <div>
-  <img src="https://i.postimg.cc/NFQKKTVV/IMG-4174.jpg">
+  <img src="https://i.postimg.cc/SNqyHc02/IMG-4174.jpg">
 </div>
   
   <div class="project-tile">
