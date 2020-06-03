@@ -38,7 +38,7 @@ html,body {
   width: 100%;
   height: 100%;
   background: #RRR;
-  min-height: 100px;
+  min-height: 500px;
   position: relative;
 }
 img {
