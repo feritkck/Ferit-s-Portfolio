@@ -99,6 +99,10 @@ a{
 </head>
 <body>
 
+<section id="welcome-section">
+<h1>Ferit sin portfolio</h1>
+</section>
+
 <div class="container">
   <img src="https://i.postimg.cc/Jnxb7BWz/5b2c33844488b3000927028f-thumb-640.jpg">
 </div>
@@ -117,7 +121,7 @@ a{
   
   <div class="project-tile">
     <h2>Eksamens Oppgave</h2>
-    <p>Dette er et bilde fra eksamen oppgaven min som jeg selv gjorde, dette ble jeg ferdig med i desember</p>
+    <p>Dette er et bilde a eksamen oppgaven min som jeg selv gjorde, dette ble jeg ferdig med i desember</p>
 <a href="https://i.postimg.cc/Qts4jNjb/IMG-4174.jpg" target="_blank">view image</a> 
   </div>
   <div class="container2">
