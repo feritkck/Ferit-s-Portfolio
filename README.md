@@ -8,9 +8,9 @@ background-color: purple;
 }
 .navbar {
   background-color: black;
-  font-size: 30px;
+  font-size: 20px;
   color: white;
-  padding: 20px;
+  padding:20px;
   margin: 20px;
   text-align: center;
 }
@@ -38,7 +38,7 @@ html,body {
   width: 100%;
   height: 100%;
   background: #RRR;
-  min-height: 900px;
+  min-height: 800px;
   position: relative;
 }
 img {
@@ -93,8 +93,9 @@ header{
 }
 a{
     font-family: 'Open Sans', sans-serif;
-    font-size: 1.2vw;
-}
+    font-size: 1.6vw;
+}  
+
 </style>
 </head>
 <body>
@@ -107,12 +108,6 @@ a{
   <img src="https://i.postimg.cc/Jnxb7BWz/5b2c33844488b3000927028f-thumb-640.jpg">
 </div>
 
-<div class="navbar">
-  <a href="#home">Home</a>
-  <a href="#news">News</a>
-  <a href="#contact">Contact</a>
-</div>
-
 <section id="projects">
   <div class="project-tile">
     <h2>Python</h2>
@@ -121,11 +116,11 @@ a{
   
   <div class="project-tile">
     <h2>Eksamens Oppgave</h2>
-    <p>Dette er et bilde a eksamen oppgaven min som jeg selv gjorde, dette ble jeg ferdig med i desember</p>
+    <p>Dette er et bilde fra eksamen oppgaven min som jeg selv gjorde, dette ble jeg ferdig med i desember. Det er en Nettstyrt lås som blir kontrolert ved hjelp av en nettside. når du trykker "åpne" så snur motoren seg i 90 grader og blinker grønn for å indikere at låsen har åpnet seg, det motsatte skjer når man trykker på "Av knappen" da blinker den rød.</p>
 <a href="https://i.postimg.cc/Qts4jNjb/IMG-4174.jpg" target="_blank">view image</a> 
   </div>
   <div class="container2">
-  <img src="https://i.postimg.cc/SNqyHc02/IMG-4174.jpg">
+  <img src="https://i.postimg.cc/gkYqBZ7J/20191213-132653000-i-OS.jpg">
 </div>
   
   <div class="project-tile">
@@ -133,3 +128,9 @@ a{
     <p>Bad HTML Link Developer</p>
       <a href="https://www.youtube.com/feed/subscriptions" target="_blank">Visit Youtube.com</a> 
   </div>
+  
+  <div class="navbar">
+  <a href="https://codepen.io/feritkck/pen/RwWVErx">Home</a>
+  <a href="https://kuben.vgs.no/">KubenVgs</a>
+  <a href="https://github.com/feritkck">GitHub</a>
+</div>
